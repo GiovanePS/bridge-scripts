@@ -53,6 +53,4 @@ AutomaticLogin = $USERNAME
 #Enable=true
 ' > /etc/gdm3/custom.conf
 
-echo 'Operação concluída com êxito.'
-
-killall -e anydesk
+echo 'Operação concluída com êxito. Reinicie o computador.'
