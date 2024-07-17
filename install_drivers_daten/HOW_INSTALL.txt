@@ -1,0 +1,11 @@
+1. Execute o powershell como administrador.
+win + x
+Clique em Windows Powershell (Admin)
+
+2. Execute o seguinte comando:
+Set-ExecutionPolicy RemoteSigned
+
+3. Execute o comando "cd D:", para ir para ir para o pendrive.
+
+4. Execute o script:
+& install_drivers_daten.ps1
